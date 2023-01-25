@@ -1,0 +1,21 @@
+  
+  .App{
+    display: flex;
+    justify-content: space-around;
+    height:100vh;
+    align-items: center;
+    /* border:1px solid black; */
+  }
+  .controls{
+    width:40vw;
+    /* border:1px solid black; */
+  }
+  .box{
+    text-align: center;
+    padding: 20vh 0px;
+    width:40vw;
+    height:50vh;
+    background-color: blueviolet;
+    color:white;
+    /* border:1px solid black; */
+  }
